@@ -39,7 +39,7 @@ Vagrantfile
 vagrant up
 ```
 
-##hostでの操作
+## hostでの操作
 
 Ansibleインストール
 ```
